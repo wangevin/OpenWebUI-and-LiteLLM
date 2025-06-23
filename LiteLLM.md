@@ -1,4 +1,4 @@
-# LitLLM
+# LiteLLM
 A Proxy server along side of OpenWebUI
 
 ## Useful Links
