@@ -7,6 +7,18 @@ Simple Documentation of exploration into Open WebUI and LiteLLM
 - [How to host Open WebUI locally (self-hosted AI Hub)](https://www.youtube.com/watch?v=JJ_0-pAOIEk)
 - [Context, not prompts. The missing piece in effective AI-assisted development](https://butschster.medium.com/context-not-prompts-the-missing-piece-in-effective-ai-assisted-development-080f90174953)
 
+## Requirements
+
+### LiteLLM Install Requirements
+- Python: Python 3.7 or higher is required
+- Database (for Proxy): For the LiteLLM Proxy, a database like PostgreSQL is required for features like spend tracking and virtual key management
+
+### Open WebUI Install Requirements
+- Docker
+- Ollama
+- Python 3.11 or higher if using `pip`
+- A GPU
+
 ## Step 1: Install Docker
 - [Install Docker on Ubuntu 24.04](./Docker.md)
 
