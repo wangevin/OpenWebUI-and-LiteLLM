@@ -54,6 +54,13 @@ To install the most current version of Docker, we need to install it from the of
 
 ## Step 4: Log back in and Test
 - Verify the Docker Version
-```bash
-docker version
-```
+    ```bash
+    docker version
+    ```
+- Run Container Test
+    ```bash
+    docker run hello-world
+    ```
+
+## Step n:
+
